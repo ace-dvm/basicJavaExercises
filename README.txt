@@ -1,0 +1,1 @@
+These are a series of exercises written as a companion to the exercises in the book, "Objects First With Java". They may also be useful on their own.
