@@ -1,12 +1,19 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: composition
+PURPOSE OF PROJECT: illustrate use of composition and interfaces for shared behavior
+VERSION or DATE: Oct 2010
+HOW TO START THIS PROJECT: Contains two examples (see below)
+AUTHORS: Ace Medlock
+USER INSTRUCTIONS: 
+Wonderland: Create a Wonderland() object and call the method playInWonderland()
+  Uses: Wonderous
+        WonderousThings
+        MarchHare
+        MadHatter
+        Cheshire
+        CheshireCat
+        CheshireCow
+DataReader: Write a new class which implements DataInterface.
+  Uses: DataFiller
+        DataInterface
+        DataSource1
+        DataSource2
