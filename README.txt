@@ -1,1 +1,1 @@
-These are a series of exercises written as a companion to the exercises in the book, "Objects First With Java". They may also be useful on their own.
+These are a series of exercises written as a companion to the exercises in the book, "Objects First With Java". They are intended to be run inside an environment such as BlueJ, therefore they do not have a main().
